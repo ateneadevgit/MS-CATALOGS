@@ -1,0 +1,5 @@
+db-config:
+  domain: db-catalogs:5432
+  name: atenea_catalogs
+  user: postgres
+  password: VA@Atenea2023
